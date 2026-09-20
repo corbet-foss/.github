@@ -3,6 +3,17 @@
 These instructions apply by default to repositories that do not provide their
 own `CONTRIBUTING.md`.
 
+## License bar
+
+This organization accepts OSI-approved licenses only: MIT, Apache-2.0,
+LGPL, AGPL. No BUSL, FSL, or other source-available terms. Anything
+source-available belongs in `corbet-libs`, not here.
+
+- Every repository must carry its own outbound `LICENSE` + SPDX identifiers.
+- LGPL contributions stay LGPL; outbound relicensing requires explicit
+  written agreement, never silence.
+- Do not submit BUSL/FSL-licensed or license-ambiguous third-party material.
+
 ## Before submitting
 
 - Create focused commits and include tests for behavior changes.

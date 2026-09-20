@@ -13,3 +13,12 @@ deletions of every `cla-v*` tag.
 Repositories keep their own outbound `LICENSE` and may add project-specific
 build, testing, provenance, or third-party-material instructions without
 duplicating the contributor agreement.
+
+## License bar
+
+`corbet-foss` hosts truly open-source shared code under OSI-approved
+licenses only (MIT, Apache-2.0, LGPL, AGPL). No BUSL/FSL taint.
+Source-available code lives in `corbet-libs`.
+
+Note: this `.github` repo's own `LICENSE` is CC-BY-3.0 for the Harmony
+CLA template text only, not the outbound license for contributions.
